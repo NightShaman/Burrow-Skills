@@ -1,5 +1,6 @@
 ---
 name: burrow-backdoor
+version: 2026.10.19.1
 description: "Investigate a Burrow runtime through Backdoor's read-only MCP diagnostics while preserving evidence boundaries and sensitive data."
 ---
 
